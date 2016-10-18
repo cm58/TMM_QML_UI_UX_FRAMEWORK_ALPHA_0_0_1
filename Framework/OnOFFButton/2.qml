@@ -12,8 +12,6 @@ Window {
     title: qsTr("Button2")
     color: "black"
 
-
-
     Rectangle {
         id: buttonContainer
         anchors.fill: parent
