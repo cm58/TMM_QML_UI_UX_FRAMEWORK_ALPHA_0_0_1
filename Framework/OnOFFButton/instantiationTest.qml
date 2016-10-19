@@ -18,6 +18,7 @@ Window {
         //Button1_1 {}
         //Button2 {}
         //Slider1 {}
-        Toggle {}
+        //Toggle {}
+        Radial {}
 
 }

@@ -8,5 +8,7 @@
         <file>icons/toggle1/off/off.png</file>
         <file>icons/toggle1/on/on.png</file>
         <file>Toggle.qml</file>
+        <file>icons/radial/myRadial/myRadial.png</file>
+        <file>Radial.qml</file>
     </qresource>
 </RCC>
