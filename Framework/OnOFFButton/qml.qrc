@@ -5,5 +5,8 @@
         <file>Slider1.qml</file>
         <file>instantiationTest.qml</file>
         <file>Button1_1.qml</file>
+        <file>icons/toggle1/off/off.png</file>
+        <file>icons/toggle1/on/on.png</file>
+        <file>Toggle.qml</file>
     </qresource>
 </RCC>
