@@ -18,10 +18,8 @@ import QtQuick 2.5
         MouseArea {
             id: onOFFclicked
             anchors.fill: button1_root
-            onClicked: {
-                textState = ((textState + 1) % 2)
-                //console.log(textState)
-            }
+            onPressed: {textState = 0}
+            onReleased: {textState = 1}
         }
 
         Text {

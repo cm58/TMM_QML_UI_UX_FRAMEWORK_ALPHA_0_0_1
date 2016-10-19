@@ -4,5 +4,6 @@
         <file>Button1.qml</file>
         <file>Slider1.qml</file>
         <file>instantiationTest.qml</file>
+        <file>Button1_1.qml</file>
     </qresource>
 </RCC>

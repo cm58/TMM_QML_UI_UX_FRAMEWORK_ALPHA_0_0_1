@@ -15,7 +15,7 @@ Window {
         anchors.left: parent.left
         width: root.width/3
         height: root.height
-        Button1 {}
+        Button1_1 {}
     }
 
     Column{
