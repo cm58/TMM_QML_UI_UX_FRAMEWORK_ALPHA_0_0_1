@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>_files_icons/radial/myRadial/myRadial.png</file>
+        <file>_files_icons/toggle1/off/off.png</file>
+        <file>_files_icons/toggle1/on/on.png</file>
+        <file>_files_qml/Button1.qml</file>
+        <file>_files_qml/Button1_1.qml</file>
+        <file>_files_qml/Button2.qml</file>
+        <file>_files_qml/instantiationTest.qml</file>
+        <file>_files_qml/Radial.qml</file>
+        <file>_files_qml/Slider1.qml</file>
+        <file>_files_qml/Toggle.qml</file>
+    </qresource>
+</RCC>
