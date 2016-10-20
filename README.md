@@ -20,7 +20,8 @@ This project currently includes items such as: <br/><br/>
 -	D) **Toggles**; <br/>
 -	E) **Switches**; <br/>
 -	F) **Down/up Arrow Buttons**; <br/>
--	G) Another knd of **UI/UX elements**; <br/>
+-	G) **Mouse Buttons**; <br/>
+-	H) Another knd of **UI/UX elements**; <br/>
 
 This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 
