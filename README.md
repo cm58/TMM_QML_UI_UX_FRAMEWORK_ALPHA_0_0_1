@@ -26,3 +26,5 @@ This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 
 **Cheers**<br/>
 **Tiago Morais Morgado**
+
+<img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a></img>
