@@ -13,5 +13,8 @@
         <file>_files_icons/toggle2/toggle2_on.png</file>
         <file>_files_qml/Toggle2.qml</file>
         <file>_files_qml/Toggle1.qml</file>
+        <file>_files_icons/switch/OFF.png</file>
+        <file>_files_icons/switch/ON.png</file>
+        <file>_files_qml/Switch.qml</file>
     </qresource>
 </RCC>
