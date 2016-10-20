@@ -16,5 +16,15 @@
         <file>_files_icons/switch/OFF.png</file>
         <file>_files_icons/switch/ON.png</file>
         <file>_files_qml/Switch.qml</file>
+        <file>_files_icons/Play_Stop/Play.png</file>
+        <file>_files_icons/Play_Stop/Stop.png</file>
+        <file>_files_icons/upDownArrows/_down.png</file>
+        <file>_files_icons/upDownArrows/_up.png</file>
+        <file>_files_qml/BoolSVGStateButtonPrimitive.qml</file>
+        <file>_files_qml/PlayStop.qml</file>
+        <file>_files_qml/UpDownArrows.qml</file>
+        <file>_files_icons/clicking/clicking.png</file>
+        <file>_files_qml/PressReleaseSVGStateButtonPrimitive.qml</file>
+        <file>_files_qml/Click1.qml</file>
     </qresource>
 </RCC>
