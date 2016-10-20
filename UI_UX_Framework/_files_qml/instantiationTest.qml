@@ -22,6 +22,6 @@ Window {
         // Toggle2 {}            // toggle looks good nad is working fine. feedback is welcome
         // Radial {}             // radial looks good and is working fine. feedback is welcome
         // Switch {}             // switch works fine. images need to be treated in photoshop, to keep black background and same size. feedback is welcome
-        //UpDownArrows {}       // working and looking fine. needs some twweaking within dimensions cropping
-        UpDownArrows {}
+        // UpDownArrows {}       // working and looking fine. needs some twweaking within dimensions cropping
+        // MakingToggle2Modular {}
 }
