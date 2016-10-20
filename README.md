@@ -25,6 +25,6 @@ This project currently includes items such as: <br/><br/>
 This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 
 **Cheers**<br/>
-**Tiago Morais Morgado**
+**Tiago Morais Morgado** <br/><br/>
 
 <img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a></img><img src="http://torquemag-hhvm.s3.amazonaws.com/uploads/2013/08/gnu-gpl-logo.png" height="100" width="100"><a href="https://en.wikipedia.org/wiki/GNU_General_Public_License"></a><img>
