@@ -26,5 +26,8 @@
         <file>_files_icons/clicking/clicking.png</file>
         <file>_files_qml/PressReleaseSVGStateButtonPrimitive.qml</file>
         <file>_files_qml/Click1.qml</file>
+        <file>_files_icons/clicking1/clicking.png</file>
+        <file>_files_icons/clicking2/clicking.png</file>
+        <file>_files_qml/Click2.qml</file>
     </qresource>
 </RCC>

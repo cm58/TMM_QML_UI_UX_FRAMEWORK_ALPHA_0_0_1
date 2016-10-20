@@ -24,6 +24,6 @@ Window {
         // Switch {}             // switch works fine. images need to be treated in photoshop, to keep black background and same size. feedback is welcome
         // UpDownArrows {}       // working and looking fine. needs some twweaking within dimensions cropping
         // PlayStop {}           // looks and works perfectly.feedback is welcome, however
-        Click1 {}             // looks and works perfectly. needs mouseX and mouseY coordinates
-
+        // Click1 {}             // looks and works perfectly. needs mouseX and mouseY coordinates
+        // Click2 {}             // looks and works perfectly. needs mouseX and mouseY coordinates
 }
