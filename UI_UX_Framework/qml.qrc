@@ -9,6 +9,9 @@
         <file>_files_qml/instantiationTest.qml</file>
         <file>_files_qml/Radial.qml</file>
         <file>_files_qml/Slider1.qml</file>
-        <file>_files_qml/Toggle.qml</file>
+        <file>_files_icons/toggle2/toggle2_off.png</file>
+        <file>_files_icons/toggle2/toggle2_on.png</file>
+        <file>_files_qml/Toggle2.qml</file>
+        <file>_files_qml/Toggle1.qml</file>
     </qresource>
 </RCC>
