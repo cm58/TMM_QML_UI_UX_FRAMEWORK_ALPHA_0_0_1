@@ -10,6 +10,14 @@ import QtQuick 2.5
         property var color2: "white"
         property var color3: Qt.rgba(0, 255, 255, 255)
 
+        function getRandomIntInclusive(min, max) {
+          min = Math.ceil(min);
+          max = Math.floor(max);
+          var out = Math.floor(Math.random() * (max - min + 1)) + min;
+          console.log(parseInt(out));
+          return parseInt(out);
+        }
+
         id: button1_root
         visible: true
         anchors.fill: parent
