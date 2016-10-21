@@ -3,8 +3,6 @@
         <file>_files_icons/radial/myRadial/myRadial.png</file>
         <file>_files_icons/toggle1/off/off.png</file>
         <file>_files_icons/toggle1/on/on.png</file>
-        <file>_files_qml/Button1.qml</file>
-        <file>_files_qml/Button1_1.qml</file>
         <file>_files_qml/Button2.qml</file>
         <file>_files_qml/instantiationTest.qml</file>
         <file>_files_qml/Radial.qml</file>
@@ -29,5 +27,15 @@
         <file>_files_icons/clicking1/clicking.png</file>
         <file>_files_icons/clicking2/clicking.png</file>
         <file>_files_qml/Click2.qml</file>
+        <file>_files_qml/Button1.qml</file>
+        <file>_files_qml/Button3.qml</file>
+        <file>_files_qml/Button4.qml</file>
+        <file>_files_qml/QMLOpenGLToggleButtonPrimitive1_1.qml</file>
+        <file>_files_qml/Button5.qml</file>
+        <file>_files_qml/QMLOpenGLToggleButtonPrimitive.qml</file>
+        <file>_files_qml/Button1_1.qml</file>
+        <file>_files_qml/Button2_2.qml</file>
+        <file>_files_qml/Button3_3.qml</file>
+        <file>_files_qml/Button4_4.qml</file>
     </qresource>
 </RCC>
