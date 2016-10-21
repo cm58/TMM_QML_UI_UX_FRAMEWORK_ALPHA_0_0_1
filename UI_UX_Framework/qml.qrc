@@ -37,5 +37,6 @@
         <file>_files_qml/Button2_2.qml</file>
         <file>_files_qml/Button3_3.qml</file>
         <file>_files_qml/Button4_4.qml</file>
+        <file>_files_qml/MidiKeyboard.qml</file>
     </qresource>
 </RCC>
