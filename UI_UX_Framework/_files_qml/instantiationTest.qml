@@ -21,7 +21,7 @@ Window {
         // Button3 {}            // the button is working fine, but looking terribly. feedback is welcome
         // Button3_3 {}
         // Button4 {}            // the button is working fine, but looking terribly. feedback is welcome
-        Button4_4 {}
+        // Button4_4 {}
         // Slider1 {}            // slider looks good but is buggy and faulty. feedback is welcome
         // Toggle1 {}            // toggle looks good nad is working fine. feedback is welcome
         // Toggle2 {}            // toggle looks good nad is working fine. feedback is welcome
@@ -31,4 +31,5 @@ Window {
         // PlayStop {}           // looks and works perfectly.feedback is welcome, however
         // Click1 {}             // looks and works perfectly. needs mouseX and mouseY coordinates
         // Click2 {}             // looks and works perfectly. needs mouseX and mouseY coordinates
+        MidiKeyboard {}
 }
