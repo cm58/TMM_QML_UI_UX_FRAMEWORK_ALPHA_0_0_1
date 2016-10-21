@@ -11,11 +11,12 @@ import QtQuick 2.5
         property var color3: Qt.rgba(0, 255, 255, 255)
 
         function getRandomIntInclusive(min, max) {
-          min = Math.ceil(min);
-          max = Math.floor(max);
+          min = Math.ceil(min * 1000);
+          max = Math.floor(max * 1000);
           var out = Math.floor(Math.random() * (max - min + 1)) + min;
-          console.log(parseInt(out));
-          return parseInt(out);
+          out = out * 0.001;
+          console.log(parseFloat(out));
+          return parseFloat(out);
         }
 
         id: button1_root
