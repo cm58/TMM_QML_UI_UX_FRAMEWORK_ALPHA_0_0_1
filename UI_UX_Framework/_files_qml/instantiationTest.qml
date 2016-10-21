@@ -16,6 +16,7 @@ Window {
 
         // Button1 {}            // the button looks good and is working fine, feedback is welcome
         // Button1_1 {}          // the button looks good and is working fine, feedback is welcome
+        Button2 {}
         // Button2 {}            // the button is working fine, but looking terribly. feedback is welcome
         // Slider1 {}            // slider looks good but is buggy and faulty. feedback is welcome
         // Toggle1 {}            // toggle looks good nad is working fine. feedback is welcome
