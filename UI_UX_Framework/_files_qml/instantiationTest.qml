@@ -31,5 +31,11 @@ Window {
         // PlayStop {}           // looks and works perfectly.feedback is welcome, however
         // Click1 {}             // looks and works perfectly. needs mouseX and mouseY coordinates
         // Click2 {}             // looks and works perfectly. needs mouseX and mouseY coordinates
-        MidiKeyboard {}
+        // MidiKeyboard {}
+        // MidiKeyboard2 {}
+        // MidiKeyboard4 {}
+        // MidiKeyboard5 {}
+        // MidiKeyboard6 {}
+        // MidiKeyboard7 {}
+        // Midikeyboard8 {}
 }
