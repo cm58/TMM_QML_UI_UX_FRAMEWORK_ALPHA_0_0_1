@@ -38,5 +38,14 @@
         <file>_files_qml/Button3_3.qml</file>
         <file>_files_qml/Button4_4.qml</file>
         <file>_files_qml/MidiKeyboard.qml</file>
+        <file>_files_qml/MidiKeyboardPrimitive.qml</file>
+        <file>_files_qml/MidiKeyboard2.qml</file>
+        <file>_files_qml/MidiKeyboard3.qml</file>
+        <file>_files_qml/MidiKeyboard4.qml</file>
+        <file>_files_qml/MidiKeyboard5.qml</file>
+        <file>_files_qml/MidiKeyboard6.qml</file>
+        <file>_files_qml/MidiKeyboard7.qml</file>
+        <file>_files_qml/Midikeyboard8.qml</file>
+        <file>_files_qml/MidiKeyboardRandomSelect.qml</file>
     </qresource>
 </RCC>
