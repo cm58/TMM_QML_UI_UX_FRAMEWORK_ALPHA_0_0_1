@@ -4,6 +4,8 @@ Row {
 
     property var keyboardModelData: [0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0];
     property var keyboardKey: 0
+    property var midiNote: 0
+    property var holdKeyValue: 0
 
     id: midiKeyboardRoot
     visible: true
@@ -19,6 +21,9 @@ Row {
         anchors.bottom: parent.bottom
         model: keyboardModelData
 
+
+
+
         delegate: Rectangle {
             id: keyNote
             visible: true
@@ -33,7 +38,16 @@ Row {
                 anchors.fill: parent
                 onPressed:  {
                     keyboardKey = index;
-                    console.log(keyboardKey);
+                    midiNote = 60 + index;
+                    holdKeyValue = keyboardModelData[index];
+                    keyboardModelData[index] = 2;
+                    if(keyboardModelData[index] == 2) {keyNote.color = Qt.rgba(0, 255, 255, 255);};
+                }
+                onReleased: {
+                    keyboardKey = 0;
+                    midiNote = 0;
+                    keyboardModelData[index] = holdKeyValue;
+                    keyNote.color = keyboardModelData[index] == 0 ? "white" : "black"
                 }
             }
         }
