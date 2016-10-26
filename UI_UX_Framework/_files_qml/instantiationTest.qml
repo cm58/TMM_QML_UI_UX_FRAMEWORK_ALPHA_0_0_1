@@ -14,7 +14,7 @@ Window {
     title: qsTr("instantiationTest")
     color: "black"
 
-        // Button1 {}            // the button looks good and is working fine, feedback is welcome
+        Button1 {}            // the button looks good and is working fine, feedback is welcome
         // Button1_1 {}          // the button looks good and is working fine, feedback is welcome
         // Button2 {}            // the button looks good and is working fine, feedback is welcome
         // Button2_2 {}            // the button looks good and is working fine, feedback is welcome
@@ -41,5 +41,5 @@ Window {
         // MidiKeyboardRandomSelect {}
         // ButtonStochasticSelector {}
         // ToggleStochasticSelector {}
-        MasterStochasticallocaton {}
+        // MasterStochasticallocaton {}
 }

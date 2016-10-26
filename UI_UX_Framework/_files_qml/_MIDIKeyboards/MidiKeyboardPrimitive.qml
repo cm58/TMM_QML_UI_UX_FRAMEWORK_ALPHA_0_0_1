@@ -33,9 +33,6 @@ Row {
         anchors.bottom: parent.bottom
         model: keyboardModelData
 
-
-
-
         delegate: Rectangle {
             id: keyNote
             visible: true
