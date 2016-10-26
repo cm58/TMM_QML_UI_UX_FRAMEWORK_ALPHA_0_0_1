@@ -47,5 +47,8 @@
         <file>_files_qml/MidiKeyboard7.qml</file>
         <file>_files_qml/Midikeyboard8.qml</file>
         <file>_files_qml/MidiKeyboardRandomSelect.qml</file>
+        <file>_files_qml/ButtonStochasticSelector.qml</file>
+        <file>_files_qml/ToggleStochasticSelector.qml</file>
+        <file>_files_qml/MasterStochasticAllocation.qml</file>
     </qresource>
 </RCC>

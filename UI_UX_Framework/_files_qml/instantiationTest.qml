@@ -38,7 +38,8 @@ Window {
         // MidiKeyboard6 {}
         // MidiKeyboard7 {}
         // Midikeyboard8 {}
-       MidiKeyboardRandomSelect {}
-
-
+        // MidiKeyboardRandomSelect {}
+        // ButtonStochasticSelector {}
+        // ToggleStochasticSelector {}
+        MasterStochasticallocaton {}
 }
