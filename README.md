@@ -29,3 +29,8 @@ This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 **Tiago Morais Morgado** <br/><br/>
 
 <img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a></img><img src="http://torquemag-hhvm.s3.amazonaws.com/uploads/2013/08/gnu-gpl-logo.png" height="100" width="100"><a href="https://en.wikipedia.org/wiki/GNU_General_Public_License"></a><img>
+
+work in progress version. updated at 26-10-2016.
+
+<iframe src="https://player.vimeo.com/video/188973909" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/188973909">Tiago framework UI:UX QML UI/UX work in progress (week 2)</a> from <a href="https://vimeo.com/tiagomoraismorgado">Tiago Morais Morgado</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
