@@ -1,19 +1,19 @@
 <RCC>
     <qresource prefix="/">
+        <file>_files_icons/clicking/clicking.png</file>
+        <file>_files_icons/clicking1/clicking.png</file>
+        <file>_files_icons/clicking2/clicking.png</file>
+        <file>_files_icons/Play_Stop/Play.png</file>
+        <file>_files_icons/Play_Stop/Stop.png</file>
         <file>_files_icons/radial/myRadial/myRadial.png</file>
+        <file>_files_icons/switch/OFF.png</file>
+        <file>_files_icons/switch/ON.png</file>
         <file>_files_icons/toggle1/off/off.png</file>
         <file>_files_icons/toggle1/on/on.png</file>
         <file>_files_icons/toggle2/toggle2_off.png</file>
         <file>_files_icons/toggle2/toggle2_on.png</file>
-        <file>_files_icons/switch/OFF.png</file>
-        <file>_files_icons/switch/ON.png</file>
-        <file>_files_icons/Play_Stop/Play.png</file>
-        <file>_files_icons/Play_Stop/Stop.png</file>
         <file>_files_icons/upDownArrows/_down.png</file>
         <file>_files_icons/upDownArrows/_up.png</file>
-        <file>_files_icons/clicking/clicking.png</file>
-        <file>_files_icons/clicking1/clicking.png</file>
-        <file>_files_icons/clicking2/clicking.png</file>
         <file>_files_qml/_Buttons/Button1.qml</file>
         <file>_files_qml/_Buttons/Button1_1.qml</file>
         <file>_files_qml/_Buttons/Button2.qml</file>
@@ -45,10 +45,10 @@
         <file>_files_qml/_MIDIKeyboards/Midikeyboard8.qml</file>
         <file>_files_qml/_MIDIKeyboards/MidiKeyboardPrimitive.qml</file>
         <file>_files_qml/_Sliders/Slider1.qml</file>
-        <file>_files_qml/_Stochastic Selectors/MasterStochasticallocation.qml</file>
-        <file>_files_qml/_Stochastic Selectors/MidiKeyboardRandomSelect.qml</file>
-        <file>_files_qml/_Stochastic Selectors/PressReleaseSVGStateButtonPrimitive.qml</file>
-        <file>_files_qml/_Stochastic Selectors/ToggleStochasticSelector.qml</file>
+        <file>_files_qml/_StochasticSelectors/MasterStochasticallocation.qml</file>
+        <file>_files_qml/_StochasticSelectors/MidiKeyboardRandomSelect.qml</file>
+        <file>_files_qml/_StochasticSelectors/PressReleaseSVGStateButtonPrimitive.qml</file>
+        <file>_files_qml/_StochasticSelectors/ToggleStochasticSelector.qml</file>
         <file>_files_qml/instantiationTest.qml</file>
     </qresource>
 </RCC>
