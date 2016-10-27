@@ -1,10 +1,10 @@
 import QtQuick 2.0
 import QtQuick.Window 2.0
-import "_Buttons/"
-import "_MIDIKeyboards/"
-import "_StochasticSelectors/"
-import "_Sliders/"
-import "_imgButtons/"
+import "_Buttons"
+import "_MIDIKeyboards"
+import "_StochasticSelectors"
+import "_Sliders"
+import "_imgButtons"
 
 Window {
 
@@ -22,17 +22,17 @@ Window {
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
 
-        // MidiKeyboardRandomSelect {}
-        // ButtonStochasticSelector {}
-        // ToggleStochasticSelector {}
-        // MasterStochasticallocation {}
+        // MidiKeyboardRandomSelect             {}
+        // ButtonStochasticSelector             {}
+        // ImgButtonsStochasticSelector {}
+        // MasterStochasticallocation           {}
 
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
 
-        // Button1 {}            // the button looks good and is working fine, feedback is welcome
+        //Button1 {}            // the button looks good and is working fine, feedback is welcome
         // Button1_1 {}          // the button looks good and is working fine, feedback is welcome
-        // Button2 {}            // the button looks good and is working fine, feedback is welcome
+        //Button2 {}            // the button looks good and is working fine, feedback is welcome
         // Button2_2 {}          // the button looks good and is working fine, feedback is welcome
         // Button3 {}            // the button is working fine, but looking terribly. feedback is welcome
         // Button3_3 {}
@@ -92,6 +92,5 @@ Window {
 
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
-
 
 }

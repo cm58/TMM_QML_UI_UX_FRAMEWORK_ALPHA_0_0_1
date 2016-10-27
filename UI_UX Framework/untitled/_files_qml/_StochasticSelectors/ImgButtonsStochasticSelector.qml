@@ -25,11 +25,15 @@ Item {
     }
 
     function randomPicking() {
-        random = parseInt(randomSelection(1, 3));
-        if(random == 1) {createMidiKeyboard("./MidiKeyboardRandomSelect.qml");}
-        //if(random == 2) {createMidiKeyboard("./PressReleaseSVGStateButtonPrimitive.qml");}
-        if(random == 2) {createMidiKeyboard("./ImgButtonsStochasticSelector.qml");}
-        if(random == 3) {createMidiKeyboard("./../_Sliders/Slider1.qml");}
+        random = parseInt(randomSelection(1, 8));
+        if(random == 1) {createMidiKeyboard("./../_imgButtons/Click1.qml");}
+        if(random == 2) {createMidiKeyboard("./../_imgButtons/Click2.qml");}
+        if(random == 3) {createMidiKeyboard("./../_imgButtons/PlayStop.qml");}
+        if(random == 4) {createMidiKeyboard("./../_imgButtons/Radial.qml");}
+        if(random == 5) {createMidiKeyboard("./../_imgButtons/Switch.qml");}
+        if(random == 6) {createMidiKeyboard("./../_imgButtons/Toggle1.qml");}
+        if(random == 7) {createMidiKeyboard("./../_imgButtons/Toggle2.qml");}
+        if(random == 8) {createMidiKeyboard("./../_imgButtons/UpDownArrows.qml");}
         return random;
     }
 
