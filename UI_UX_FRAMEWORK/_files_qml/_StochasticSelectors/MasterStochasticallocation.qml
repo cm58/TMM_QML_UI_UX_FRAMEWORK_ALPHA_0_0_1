@@ -25,11 +25,12 @@ Item {
     }
 
     function randomPicking() {
-        random = parseInt(randomSelection(1, 3));
+        random = parseInt(randomSelection(1, 4));
         if(random == 1) {createMidiKeyboard("./MidiKeyboardRandomSelect.qml");}
         //if(random == 2) {createMidiKeyboard("./PressReleaseSVGStateButtonPrimitive.qml");}
         if(random == 2) {createMidiKeyboard("./ImgButtonsStochasticSelector.qml");}
         if(random == 3) {createMidiKeyboard("./../_Sliders/Slider1.qml");}
+        if(random == 4) {createMidiKeyboard("./QmlBootstrapExamplesStochasticSelector.qml");}
         return random;
     }
 

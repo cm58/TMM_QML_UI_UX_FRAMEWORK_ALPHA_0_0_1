@@ -5,6 +5,7 @@ import "_MIDIKeyboards"
 import "_StochasticSelectors"
 import "_Sliders"
 import "_imgButtons"
+import "_QmlBootstrap/examples/"
 
 Window {
 
@@ -23,16 +24,29 @@ Window {
         ////////////////////////////////////////////////////////////////
 
         // MidiKeyboardRandomSelect             {}
-        // ButtonStochasticSelector             {}
+        // ButtonStochasticSelector {}
         // ImgButtonsStochasticSelector {}
+        // QmlBootstrapExamplesStochasticSelector {}
         // MasterStochasticallocation           {}
 
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
 
-        //Button1 {}            // the button looks good and is working fine, feedback is welcome
+        // AvatarListPage {}
+        // ButtonBarPage {}
+        // ButtonPage {}
+        // CardPage {}
+        // DefaultListPage {}
+        // IconListPage {}
+        // ThumbnailListPage {}
+
+        ////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////
+
+
+        // Button1 {}            // the button looks good and is working fine, feedback is welcome
         // Button1_1 {}          // the button looks good and is working fine, feedback is welcome
-        //Button2 {}            // the button looks good and is working fine, feedback is welcome
+        // Button2 {}            // the button looks good and is working fine, feedback is welcome
         // Button2_2 {}          // the button looks good and is working fine, feedback is welcome
         // Button3 {}            // the button is working fine, but looking terribly. feedback is welcome
         // Button3_3 {}
@@ -85,10 +99,11 @@ Window {
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
 
-        // MidiKeyboardRandomSelect {}
+        // MidiKeyboardRandomSelect             {}
         // ButtonStochasticSelector {}
-        // ToggleStochasticSelector {}
-        // MasterStochasticallocation {}
+        // ImgButtonsStochasticSelector {}
+        // QmlBootstrapExamplesStochasticSelector {}
+        // MasterStochasticallocation           {}
 
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
