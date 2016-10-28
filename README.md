@@ -21,9 +21,9 @@ This project currently includes items such as: <br/><br/>
 -	E) **Switches**; <br/>
 -	F) **Down/up Arrow Buttons**; <br/>
 -	G) **Mouse Buttons**; <br/>
--	H) Another knd of **UI/UX elements**; <br/><br/>
+-	H) Another knd of **UI/UX elements**; <br/>
 
-Current versions also includes QmlBootstrap Framework, and I would like to honestly thank its authors<br/>
+Current versions also includes QmlBootstrap Framework, and I would like to honestly thank its authors<br/><br/>
 
 This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 
