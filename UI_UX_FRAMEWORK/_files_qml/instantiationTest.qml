@@ -6,16 +6,17 @@ import "_StochasticSelectors"
 import "_Sliders"
 import "_imgButtons"
 import "_QmlBootstrap/examples/"
+import "_Pad"
 
 Window {
 
     id: root
-    width: 640
-    height: 320
-    minimumWidth: 640
-    maximumWidth: 640
-    minimumHeight: 320
-    maximumHeight: 320
+    width: 640  * 1.642
+    height: 320  * 1.642
+    minimumWidth: 640 * 1.642
+    maximumWidth: 640 * 1.642
+    minimumHeight: 320 * 1.642
+    maximumHeight: 320 * 1.642
     visible: true
     title: qsTr("instantiationTest")
     color: "black"
@@ -24,10 +25,11 @@ Window {
         ////////////////////////////////////////////////////////////////
 
         // MidiKeyboardRandomSelect             {}
-        // ButtonStochasticSelector {}
+        //ButtonStochasticSelector {}
         // ImgButtonsStochasticSelector {}
         // QmlBootstrapExamplesStochasticSelector {}
-        // MasterStochasticallocation           {}
+         MasterStochasticallocation           {}
+        // PadStochasticSelector {}
 
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
@@ -43,6 +45,14 @@ Window {
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
 
+        // Pad1 {}
+        // Pad2 {}
+        // Pad3 {}
+        // Pad4 {}
+        // Pad5 {}
+
+        ////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////
 
         // Button1 {}            // the button looks good and is working fine, feedback is welcome
         // Button1_1 {}          // the button looks good and is working fine, feedback is welcome

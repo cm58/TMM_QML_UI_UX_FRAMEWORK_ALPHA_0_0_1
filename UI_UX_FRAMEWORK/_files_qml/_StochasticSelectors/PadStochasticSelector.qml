@@ -1,7 +1,7 @@
 import QtQuick 2.0
 
 Item {
-    id: randomMIDIkeyboardSelector;
+    id: randomPadSelector;
     anchors.fill: parent  // fit item size to parent size
     property var random: 0;
 
@@ -17,7 +17,7 @@ Item {
         var component = Qt.createComponent(itemToBeInstantiated)
         if (component.status === Component.Ready) {
             console.log("Component created with success!! ")
-            var midiKeyboard = component.createObject(randomMIDIkeyboardSelector, {});
+            var midiKeyboard = component.createObject(randomPadSelector, {});
         }
         else if (component.status === Component.Error) {
             console.log("Error loading component: ", component.errorString())
@@ -25,13 +25,13 @@ Item {
     }
 
     function randomPicking() {
-        random = parseInt(randomSelection(1, 5));
-        if(random == 1) {createMidiKeyboard("./MidiKeyboardRandomSelect.qml");}
-        //if(random == 2) {createMidiKeyboard("./PressReleaseSVGStateButtonPrimitive.qml");}
-        if(random == 2) {createMidiKeyboard("./ImgButtonsStochasticSelector.qml");}
-        if(random == 3) {createMidiKeyboard("./../_Sliders/Slider1.qml");}
-        if(random == 4) {createMidiKeyboard("./QmlBootstrapExamplesStochasticSelector.qml");}
-        if(random == 5) {createMidiKeyboard("./PadStochasticSelector.qml");}
+        random = parseInt(randomSelection(1, 6));
+        if(random == 1) {createMidiKeyboard("./../_Pad/Pad1.qml");}
+        if(random == 2) {createMidiKeyboard("./../_Pad/Pad2.qml");}
+        if(random == 3) {createMidiKeyboard("./../_Pad/Pad3.qml");}
+        if(random == 4) {createMidiKeyboard("./../_Pad/Pad4.qml");}
+        if(random == 5) {createMidiKeyboard("./../_Pad/Pad5.qml");}
+        if(random == 6) {createMidiKeyboard("./../_Pad/Pad6.qml");}
         return random;
     }
 
