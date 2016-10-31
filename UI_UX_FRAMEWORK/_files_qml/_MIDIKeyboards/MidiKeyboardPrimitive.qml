@@ -51,12 +51,15 @@ Row {
                     holdKeyValue = keyboardModelData[index];
                     keyboardModelData[index] = 2;
                     if(keyboardModelData[index] == 2) {keyNote.color = color3;};
+                    console.log("key = " + (60+index));
                 }
                 onReleased: {
                     keyboardKey = 0;
                     midiNote = 0;
                     keyboardModelData[index] = holdKeyValue;
                     keyNote.color = keyboardModelData[index] == 0 ? color2 : color1
+                    console.log("key = " + 0);
+
                 }
             }
         }
