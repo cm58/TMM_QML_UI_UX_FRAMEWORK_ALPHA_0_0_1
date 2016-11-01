@@ -114,5 +114,10 @@
         <file>_files_qml/_Combos/Combo6.qml</file>
         <file>_files_qml/_Combos/Combo7.qml</file>
         <file>_files_qml/_Combos/Combo8.qml</file>
+        <file>_files_qml/_Combos/Combo9.qml</file>
+        <file>_files_qml/_Combos/Combo10.qml</file>
+        <file>_files_qml/_Combos/Combo11.qml</file>
+        <file>_files_qml/_Combos/Combo12.qml</file>
+        <file>_files_qml/_Combos/Combo13.qml</file>
     </qresource>
 </RCC>
