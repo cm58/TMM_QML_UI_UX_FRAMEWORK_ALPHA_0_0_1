@@ -6,7 +6,7 @@ import QtQuick 2.5
         property var textState: 1;
         property var state1: 'BUTTON 1';
         property var state2: 'BUTTON 1';
-        property var size: root.width / model;
+        property var size: parent.width / model;
         property var color1: Qt.rgba(255, 255, 0, 255)
         property var color2: "black"
         property var color3: "black"
@@ -28,8 +28,8 @@ import QtQuick 2.5
         //anchors.horizontalCenter: parent.horizontalCenter
         border.color: color3
         color: textState == 1 ? color1 : color2
-        width: root.width / model
-        height: root.width / model
+        width: parent.width / model
+        height: parent.width / model
 
         MouseArea {
             id: onOFFclicked

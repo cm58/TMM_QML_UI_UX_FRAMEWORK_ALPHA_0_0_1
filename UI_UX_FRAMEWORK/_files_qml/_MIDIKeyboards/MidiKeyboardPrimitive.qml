@@ -38,7 +38,7 @@ Row {
             visible: true
             anchors.top: parent.top
             anchors.bottom: parent.bottom
-            width: root.width / (midiKeyboardRepeater.model.length)
+            width: parent.width / (midiKeyboardRepeater.model.length)
             border.color: keyboardModelData[index] == 0 ? color1 : color2
             color: keyboardModelData[index] == 0 ? color2 : color1
 

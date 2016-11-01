@@ -14,16 +14,13 @@ Window {
     id: root
     width: 640  * 1.642
     height: 320  * 1.642
-    minimumWidth: 640 * 1.642
-    maximumWidth: 640 * 1.642
-    minimumHeight: 320 * 1.642
-    maximumHeight: 320 * 1.642
     visible: true
     title: qsTr("instantiationTest")
     color: "black"
 
-        // Combo1 {}
-        Combo2 {}
+        //Combo1 {}
+        //Combo2 {}
+        Combo3 {}
 
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
