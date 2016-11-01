@@ -1,4 +1,4 @@
-import QtQuick 2.0
+import QtQuick 2.6
 
 BoolSVGStateButtonPrimitive {
     img1: "/_files_icons/toggle2/toggle2_off.png";
