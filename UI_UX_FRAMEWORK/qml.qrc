@@ -109,5 +109,6 @@
         <file>_files_qml/_Combos/Combo1.qml</file>
         <file>_files_qml/_Combos/Combo2.qml</file>
         <file>_files_qml/_Combos/Combo3.qml</file>
+        <file>_files_qml/_Combos/Combo4.qml</file>
     </qresource>
 </RCC>
