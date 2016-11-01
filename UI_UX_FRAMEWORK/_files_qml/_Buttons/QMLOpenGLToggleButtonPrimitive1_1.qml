@@ -1,6 +1,7 @@
 import QtQuick 2.5
 
     Rectangle {
+        property var model: model1
 
         property var textState: 1;
         property var state1: 'ON';
@@ -21,7 +22,8 @@ import QtQuick 2.5
 
         id: button1_root
         visible: true
-        anchors.fill: parent
+        width: parent.width / model
+        height: parent.height
         //width: size*2;
         //height: size;
         border.color: color3

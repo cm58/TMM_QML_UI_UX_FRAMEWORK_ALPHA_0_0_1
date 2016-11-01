@@ -2,7 +2,6 @@ import QtQuick 2.0
 
 Item {
     id: randomMIDIkeyboardSelector;
-    anchors.fill: parent  // fit item size to parent size
     property var random: 0;
 
     function randomSelection(min, max) {

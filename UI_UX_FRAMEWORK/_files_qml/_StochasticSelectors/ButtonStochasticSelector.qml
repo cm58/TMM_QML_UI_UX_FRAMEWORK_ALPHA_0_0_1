@@ -1,8 +1,12 @@
 import QtQuick 2.0
 
 Item {
-    id: randomMIDIkeyboardSelector;
+    property var model: model1
     anchors.fill: parent  // fit item size to parent size
+
+    id: randomMIDIkeyboardSelector;
+
+    //anchors.fill: parent  // fit item size to parent size
     property var random: 0;
 
     function randomSelection(min, max) {
@@ -17,7 +21,7 @@ Item {
         var component = Qt.createComponent(itemToBeInstantiated)
         if (component.status === Component.Ready) {
             console.log("Component created with success!! ")
-            var midiKeyboard = component.createObject(randomMIDIkeyboardSelector, {});
+            var midiKeyboard = component.createObject(randomMIDIkeyboardSelector, {model: model});
         }
         else if (component.status === Component.Error) {
             console.log("Error loading component: ", component.errorString())
