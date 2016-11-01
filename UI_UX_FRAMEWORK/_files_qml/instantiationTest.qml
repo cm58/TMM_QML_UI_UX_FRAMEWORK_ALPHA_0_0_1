@@ -7,6 +7,7 @@ import "_Sliders"
 import "_imgButtons"
 import "_QmlBootstrap/examples/"
 import "_Pad"
+import "_Combos"
 
 Window {
 
@@ -21,6 +22,8 @@ Window {
     title: qsTr("instantiationTest")
     color: "black"
 
+        Combo1 {}
+
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
 
@@ -28,7 +31,7 @@ Window {
         //ButtonStochasticSelector {}
         // ImgButtonsStochasticSelector {}
         // QmlBootstrapExamplesStochasticSelector {}
-         MasterStochasticallocation           {}
+        // MasterStochasticallocation           {}
         // PadStochasticSelector {}
 
         ////////////////////////////////////////////////////////////////

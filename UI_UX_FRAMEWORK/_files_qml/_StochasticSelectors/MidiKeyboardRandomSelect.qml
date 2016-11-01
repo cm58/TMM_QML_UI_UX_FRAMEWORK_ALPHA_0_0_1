@@ -25,7 +25,7 @@ Item {
     }
 
     function randomPicking() {
-        random = parseInt(randomSelection(1, 8));
+        random = parseInt(randomSelection(1, 7));
         if(random == 1) {createMidiKeyboard("./../_MIDIKeyboards/MidiKeyboard.qml");}
         if(random == 2) {createMidiKeyboard("./../_MIDIKeyboards/MidiKeyboard2.qml");}
         if(random == 3) {createMidiKeyboard("./../_MIDIKeyboards/MidiKeyboard3.qml");}
@@ -33,7 +33,7 @@ Item {
         if(random == 5) {createMidiKeyboard("./../_MIDIKeyboards/MidiKeyboard5.qml");}
         if(random == 6) {createMidiKeyboard("./../_MIDIKeyboards/MidiKeyboard6.qml");}
         if(random == 7) {createMidiKeyboard("./../_MIDIKeyboards/MidiKeyboard7.qml");}
-        if(random == 8) {createMidiKeyboard("./../_MIDIKeyboards/Midikeyboard8.qml");}
+        // if(random == 8) {createMidiKeyboard("./../_MIDIKeyboards/Midikeyboard8.qml");}
         return random;
     }
 
