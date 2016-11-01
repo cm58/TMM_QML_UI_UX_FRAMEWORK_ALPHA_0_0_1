@@ -15,7 +15,7 @@ Item {
     visible: true
 
         Item {
-            id: keyboardEncapsulator
+            id: combo1keyboardEncapsulator
             height: parent.height * 0.5
             width: parent.width
             anchors.bottom: parent.bottom
@@ -26,7 +26,7 @@ Item {
 
 
                 Row {
-                    id: buttonEncapsulator
+                    id: combo1buttonEncapsulator
                     height: parent.height * 0.5
                     width: parent.width
                     anchors.top: parent.top
@@ -35,9 +35,9 @@ Item {
                     anchors.right: parent.right
 
                     Repeater {
-                        id: buttonRepeater
+                        id: combo1ButtonRepeater
                         model: 10
-                        Button5 {model: buttonRepeater.model}
+                        Button5 {model: combo1ButtonRepeater.model}
                     }
                 }
 }
