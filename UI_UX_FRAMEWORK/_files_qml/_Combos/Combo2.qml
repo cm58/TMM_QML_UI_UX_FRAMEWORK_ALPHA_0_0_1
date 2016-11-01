@@ -13,7 +13,6 @@ Item {
     width: parent.width
     height: parent.height
     visible: true
-
                 Row {
                     id: combo2Encapsulator
                     height: parent.height * 0.5
@@ -23,7 +22,10 @@ Item {
                         id: combo2Repeater
                         model: 5
                         width: parent.width
-                        Pad6 {model: combo2Repeater.model}
+                        PadOpenGLPrimitive {
+                            color1: Qt.rgba(255, 255, 0, 255);
+                            model: combo2Repeater.model
+                        }
                     }
     }
 }
