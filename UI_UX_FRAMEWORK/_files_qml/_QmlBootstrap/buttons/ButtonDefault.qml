@@ -1,6 +1,6 @@
 import QtQuick 2.3
-import QtQuick.Controls 1.2
-import QtQuick.Controls.Styles 1.2
+import QtQuick.Controls 2.0
+import QtQuick.Controls.Styles 2.0
 import QtGraphicalEffects 1.0
 import "../styles"
 import "../variables/buttons.js" as StyleHelper
