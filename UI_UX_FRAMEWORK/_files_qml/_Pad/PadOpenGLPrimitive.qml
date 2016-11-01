@@ -2,10 +2,11 @@ import QtQuick 2.5
 
     Rectangle {
 
+        property var model: model1
         property var textState: 1;
         property var state1: 'BUTTON 1';
         property var state2: 'BUTTON 1';
-        property var size: 320;
+        property var size: root.width / model;
         property var color1: Qt.rgba(255, 255, 0, 255)
         property var color2: "black"
         property var color3: "black"
@@ -24,11 +25,11 @@ import QtQuick 2.5
         //width: size*2;
         //height: size;
         anchors.verticalCenter: parent.verticalCenter
-        anchors.horizontalCenter: parent.horizontalCenter
+        //anchors.horizontalCenter: parent.horizontalCenter
         border.color: color3
         color: textState == 1 ? color1 : color2
-        width: 320
-        height: 320
+        width: root.width / model
+        height: root.width / model
 
         MouseArea {
             id: onOFFclicked
@@ -50,7 +51,7 @@ import QtQuick 2.5
             anchors.horizontalCenter: pad_root.horizontalCenter;
             anchors.verticalCenter: pad_root.verticalCenter;
             color: textState == 1 ? color3 : color1
-            font.pixelSize: pad_root.width / 10.0
+            font.pixelSize: pad_root.width / 30.0
         }
     }
 
