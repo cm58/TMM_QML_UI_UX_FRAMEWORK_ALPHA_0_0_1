@@ -7,6 +7,5 @@ int main(int argc, char *argv[])
 
     QQmlApplicationEngine engine;
     engine.load(QUrl(QStringLiteral("qrc:/_files_qml/instantiationTest.qml")));
-
     return app.exec();
 }

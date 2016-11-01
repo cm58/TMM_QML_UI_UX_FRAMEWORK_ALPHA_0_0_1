@@ -22,6 +22,7 @@ Item {
                     Repeater {
                         id: combo2Repeater
                         model: 5
+                        width: parent.width
                         Pad6 {model: combo2Repeater.model}
                     }
     }
