@@ -22,8 +22,7 @@ Item {
                         id: combo2Repeater
                         model: 5
                         width: parent.width
-                        PadOpenGLPrimitive {
-                            color1: Qt.rgba(255, 255, 0, 255);
+                        Pad6 {
                             model: combo2Repeater.model
                         }
                     }
