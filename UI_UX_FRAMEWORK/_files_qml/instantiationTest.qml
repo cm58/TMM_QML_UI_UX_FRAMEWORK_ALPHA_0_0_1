@@ -25,7 +25,7 @@ Window {
         // Combo5 {}
         // Combo6 {}
         // Combo7 {}
-        // Combo8 {}
+         Combo8 {}
         //Combo9 {}
         // Combo10 {}
         // Combo11 {}
