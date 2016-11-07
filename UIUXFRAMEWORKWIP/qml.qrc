@@ -120,5 +120,38 @@
         <file>_files_qml/_StochasticSelectors/QmlBootstrapExamplesStochasticSelector.qml</file>
         <file>_files_qml/instantiationTest.qml</file>
         <file>_files_qml/_StochasticSelectors/CombosStochasticSelector.qml</file>
+        <file>_files_3rdParty/rtmidi/doc/doxygen/samples/getting_started.cpp</file>
+        <file>_files_3rdParty/rtmidi/doc/doxygen/Doxyfile.in</file>
+        <file>_files_3rdParty/rtmidi/doc/doxygen/footer.html</file>
+        <file>_files_3rdParty/rtmidi/doc/doxygen/header.html</file>
+        <file>_files_3rdParty/rtmidi/doc/doxygen/tutorial.txt</file>
+        <file>_files_3rdParty/rtmidi/doc/images/ccrma.gif</file>
+        <file>_files_3rdParty/rtmidi/doc/images/mcgill.gif</file>
+        <file>_files_3rdParty/rtmidi/doc/release.txt</file>
+        <file>_files_3rdParty/rtmidi/msw/readme</file>
+        <file>_files_3rdParty/rtmidi/msw/rtmidilib.sln</file>
+        <file>_files_3rdParty/rtmidi/msw/rtmidilib.vcproj</file>
+        <file>_files_3rdParty/rtmidi/tests/cmidiin.cpp</file>
+        <file>_files_3rdParty/rtmidi/tests/cmidiin.dsp</file>
+        <file>_files_3rdParty/rtmidi/tests/midiclock.cpp</file>
+        <file>_files_3rdParty/rtmidi/tests/midiout.cpp</file>
+        <file>_files_3rdParty/rtmidi/tests/midiout.dsp</file>
+        <file>_files_3rdParty/rtmidi/tests/midiprobe.cpp</file>
+        <file>_files_3rdParty/rtmidi/tests/midiprobe.dsp</file>
+        <file>_files_3rdParty/rtmidi/tests/qmidiin.cpp</file>
+        <file>_files_3rdParty/rtmidi/tests/qmidiin.dsp</file>
+        <file>_files_3rdParty/rtmidi/tests/RtMidi.dsw</file>
+        <file>_files_3rdParty/rtmidi/tests/sysextest.cpp</file>
+        <file>_files_3rdParty/rtmidi/tests/sysextest.dsp</file>
+        <file>_files_3rdParty/rtmidi/autogen.sh</file>
+        <file>_files_3rdParty/rtmidi/configure.ac</file>
+        <file>_files_3rdParty/rtmidi/README.md</file>
+        <file>_files_3rdParty/rtmidi/rtmidi-config.in</file>
+        <file>_files_3rdParty/rtmidi/RtMidi.cpp</file>
+        <file>_files_3rdParty/rtmidi/RtMidi.h</file>
+        <file>_files_3rdParty/rtmidi/rtmidi.pc.in</file>
+        <file>_files_3rdParty/rtmidi/rtmidi_c.cpp</file>
+        <file>_files_3rdParty/rtmidi/rtmidi_c.h</file>
+        <file>main.cpp</file>
     </qresource>
 </RCC>
