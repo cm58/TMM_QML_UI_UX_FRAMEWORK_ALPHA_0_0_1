@@ -113,13 +113,13 @@
         <file>_files_qml/_QmlBootstrap/variables/items.js</file>
         <file>_files_qml/_Sliders/Slider1.qml</file>
         <file>_files_qml/_StochasticSelectors/ButtonStochasticSelector.qml</file>
+        <file>_files_qml/_StochasticSelectors/CombosStochasticSelector.qml</file>
         <file>_files_qml/_StochasticSelectors/ImgButtonsStochasticSelector.qml</file>
         <file>_files_qml/_StochasticSelectors/MasterStochasticallocation.qml</file>
         <file>_files_qml/_StochasticSelectors/MidiKeyboardRandomSelect.qml</file>
         <file>_files_qml/_StochasticSelectors/PadStochasticSelector.qml</file>
         <file>_files_qml/_StochasticSelectors/QmlBootstrapExamplesStochasticSelector.qml</file>
         <file>_files_qml/instantiationTest.qml</file>
-        <file>_files_qml/_StochasticSelectors/CombosStochasticSelector.qml</file>
         <file>_files_3rdParty/rtmidi/doc/doxygen/samples/getting_started.cpp</file>
         <file>_files_3rdParty/rtmidi/doc/doxygen/Doxyfile.in</file>
         <file>_files_3rdParty/rtmidi/doc/doxygen/footer.html</file>
@@ -152,6 +152,5 @@
         <file>_files_3rdParty/rtmidi/rtmidi.pc.in</file>
         <file>_files_3rdParty/rtmidi/rtmidi_c.cpp</file>
         <file>_files_3rdParty/rtmidi/rtmidi_c.h</file>
-        <file>main.cpp</file>
     </qresource>
 </RCC>
