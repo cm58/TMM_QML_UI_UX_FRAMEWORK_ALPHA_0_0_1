@@ -1,7 +1,8 @@
-# **TMM_QML_UI_UX_FRAMEWORK_WIP** <br/><br/>
+
+# **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** <br/><br/>
 
 This repository consists of a **QML UI/UX Framework**.<br/>
-Currently, this is only a draft, that is **not even considered pre-alpha**. <br/><br/>
+The current vesion is **pre-alpha 0.0.1**. <br/><br/>
 
 The main motivation for writting this framework lies within: <br/><br/>
 
@@ -9,7 +10,7 @@ The main motivation for writting this framework lies within: <br/><br/>
 
 This can be applied to: <br/><br/>
 
--	A) developing a framework for using within **SuperCollider development** and **other OpenSource Projects**<br/>
+-	A) developing a framework for using within **SuperCollider development** and **other OpenSource Projects**, not only in the extension of supercollider IDE, in a long run, but also, in a short run, within providing a solution for UI/UX development inside SC as a quaró. <br/>
 -	B) developing a framework for using within the development of a **composer toolbox** sort of application, for composing **instrumental music**, **electroacoustic music**, and for **developing opensource tools**<br/><br/>
 
 This project currently includes items such as: <br/><br/>
@@ -24,6 +25,8 @@ This project currently includes items such as: <br/><br/>
 -	H) Another knd of **UI/UX elements**; <br/>
 
 Current versions also includes QmlBootstrap Framework, and I would like to honestly thank its authors<br/>
+
+Furthermore, it includes RtMidi Library.
 
 This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 
