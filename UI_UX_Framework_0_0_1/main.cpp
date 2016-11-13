@@ -1,6 +1,6 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
-#include <RtMidi.h>
+//#include <RtMidi.h>
 
 int main(int argc, char *argv[])
 {

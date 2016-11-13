@@ -1,13 +1,24 @@
 import QtQuick 2.6
 import QtQuick.Window 2.2
+
+// external
+import "./../_files_3rdParty/qml-material"
+import "./../_files_3rdParty/qml-material/demo"
+import "./../_files_3rdParty/qml-material/documentation"
+import "./../_files_3rdParty/qml-material/modules"
+import "./../_files_3rdParty/qml-material/styles_demo"
+import "./../_files_3rdParty/qml-material/tests"
+import "_QmlBootstrap/examples/"
+
+//my stuff
 import "_Buttons"
 import "_MIDIKeyboards"
 import "_StochasticSelectors"
 import "_Sliders"
 import "_imgButtons"
-import "_QmlBootstrap/examples/"
 import "_Pad"
 import "_Combos"
+
 
 Window {
 
@@ -19,15 +30,28 @@ Window {
     title: qsTr("instantiationTest")
     color: "black"
 
-    CombosStochasticSelector {}
+        ////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////
+
+        //ButtonDemo {}
+        //CheckBoxDemo {}
+        //ColorPaletteDemo {}
+        //DatePickerDemo {}
+        //DialogDemo {}
+        //PageStackDemo {}
+        //RadioButtonDemo {}
+        //SliderDemo {}
+        //SwitchDemo {}
+        //TimePickerDemo {}
+
+        ////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////
+
+        //CombosStochasticSelector {}
 
 
-
-
-
-
-
-
+        ////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////
 
         //Combo1 {}
         //Combo2 {}
@@ -42,6 +66,7 @@ Window {
         // Combo11 {}
         // Combo12 {}
         // Combo13 {}
+
         ////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
 
