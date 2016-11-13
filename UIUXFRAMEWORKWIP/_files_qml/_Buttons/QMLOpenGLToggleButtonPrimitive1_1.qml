@@ -36,6 +36,8 @@ import QtQuick 2.5
                 textState = 0
                 //console.log(textState)
                 console.log(textState);
+                regnenerate();
+
             }
             onReleased: {
                 textState = 1;
