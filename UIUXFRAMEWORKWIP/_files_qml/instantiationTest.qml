@@ -1,5 +1,5 @@
 import QtQuick 2.6
-import QtQuick.Window 2.0
+import QtQuick.Window 2.2
 import "_Buttons"
 import "_MIDIKeyboards"
 import "_StochasticSelectors"
@@ -12,14 +12,22 @@ import "_Combos"
 Window {
 
     id: root
-    width: 640  * 1.642
-    height: 320  * 1.642
+    width: Screen.width
+    height: Screen.height
     visible: true
+    visibility: "FullScreen"
     title: qsTr("instantiationTest")
     color: "black"
 
+    CombosStochasticSelector {}
 
-        CombosStochasticSelector {}
+
+
+
+
+
+
+
 
         //Combo1 {}
         //Combo2 {}
