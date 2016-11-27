@@ -1,7 +1,6 @@
 # Welcome to **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1**!!! <br/><br/>
 
-This repository consists of a **QML UI/UX Framework**.<br/>
-The current vesion is **pre-alpha 0.0.1**. <br/><br/>
+**TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** is a framework for **rapid UI prototyping**, aimed at ***musicians, artists, and people working with opensource tools*** for ***sound, graphics, etc.***. It is ***free, open source software, and platfform independent software*** licensed under **GNU 3.0**. The current vesion is **pre-alpha 0.0.1**. It will more and more combine **several languages** and **environments**<br/><br/>
 
 The main motivation for writting this framework lies within: <br/><br/>
 
@@ -9,9 +8,9 @@ The main motivation for writting this framework lies within: <br/><br/>
 
 This can be applied to: <br/><br/>
 
--	**A)** developing a framework for **programming GUIs** for **enhancing digital media arts related apps** (similarly to what you'd do, in theory, with stuff like **Lemur** or other related apps). <br/>
+-	**A)** developing a framework for **programming UIs** for **enhancing digital media arts related apps** (similarly to what you'd do, in theory, with stuff like **Lemur** or other related apps, though you can integrate the source of all apps you are using into a single app. <br/><br/>
 -	**B)** developing, on the long run, a framework for using within the development of a **composer toolbox** sort of application, for composing **instrumental music**, **electroacoustic music**, and for **developing opensource tools**<br/>
--	**C)** Having a tool that can enhance the UI of environments such as **SuperCollider**, **Csound**, and **PureData**. <br/>
+-	**C)** Having a tool that can enhance the UI of environments such as **SuperCollider**, **Csound**, and **PureData**, not only by **routing MIDI** and **Opensoundcontrol data inbetween apps**, but also having a library that can **extend the features of these platfforms**, in one way. <br/>
 
 This project currently includes items such as: <br/><br/>
 
