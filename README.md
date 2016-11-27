@@ -24,11 +24,7 @@ This project currently includes items such as: <br/><br/>
 - D) **Combos**, which stochastically load combinations of different kinds of some of the previously listed devices <br/>
 -	E) Another knd of **UI/UX elements**, such as Bootstrap elements, among other things; <br/><br/>
 
-Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors<br/><br/>
-
-Furthermore, it includes **RtMidi Library**.<br/><br/>
-
-This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
+Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 
 **Cheers**<br/>
 **Tiago Morais Morgado** <br/><br/>
