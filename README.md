@@ -18,14 +18,11 @@ This can be applied to: <br/><br/>
 
 This project currently includes items such as: <br/><br/>
 
--	A) **Knobs**; <br/>
--	B) **Faders**; <br/>
--	C) **Radials**; <br/>
--	D) **Toggles**; <br/>
--	E) **Switches**; <br/>
--	F) **Down/up Arrow Buttons**; <br/>
--	G) **Mouse Buttons**; <br/>
--	H) Another knd of **UI/UX elements**; <br/><br/>
+- A) **SVG** based icons featuring different kinds of images, for sending out data;
+-	B) **Faders** and **Multisliders**, which you can costumize and use with different colors and layouts; <br/>
+-	C) **Toggles**, with different layouts, which you can use to send boolean data; <br/>
+- D) **Combos**, which stochastically load combinations of different kinds of some of the previously listed devices <br/>
+-	E) Another knd of **UI/UX elements**, such as Bootstrap elements, among other things; <br/><br/>
 
 Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors<br/><br/>
 
