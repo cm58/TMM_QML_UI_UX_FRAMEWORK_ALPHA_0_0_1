@@ -31,6 +31,6 @@ Current version also includes **QmlBootstrap Framework**, and I would like to ho
 
 <img src="https://avatars0.githubusercontent.com/u/7303598?v=3&s=460" height="100" width="100"><a href="https://www.qt.io">
 <img src="https://lh3.googleusercontent.com/-m0H-wPtVGFU/AAAAAAAAAAI/AAAAAAAAAAA/-RgbUQZx4Ck/s128-c-k/photo.jpg" height="100" width="100"><a href="https://www.qt.io">
-</a><img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a></img><img src="http://torquemag-hhvm.s3.amazonaws.com/uploads/2013/08/gnu-gpl-logo.png" height="100" width="100"><a href="https://en.wikipedia.org/wiki/GNU_General_Public_License"></a><img><br/><br/><br/><br/>
+</a><img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a></img><img src="http://zfoneproject.com/images/logos/agplv3-584x235.png" height="100" width="100"><a href="https://en.wikipedia.org/wiki/GNU_General_Public_License"></a><img><br/><br/><br/><br/>
 
 work in progress version. updated at 26-10-2016. <iframe src="https://player.vimeo.com/video/188973909" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><a href="https://vimeo.com/188973909">Tiago framework UI:UX QML UI/UX work in progress (week 2)</a> from <a href="https://vimeo.com/tiagomoraismorgado">Tiago Morais Morgado</a> on <a href="https://vimeo.com">Vimeo</a>. A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at **Imaginando**<br/>
