@@ -1,4 +1,4 @@
-# **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** <br/><br/>
+# Welcome to **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1**!!! <br/><br/>
 
 This repository consists of a **QML UI/UX Framework**.<br/>
 The current vesion is **pre-alpha 0.0.1**. <br/><br/>
