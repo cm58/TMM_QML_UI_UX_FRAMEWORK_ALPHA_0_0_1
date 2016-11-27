@@ -2,7 +2,7 @@
 
 **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** aims **rapid UI prototyping**; its targetted at ***musicians, artists, and people working with opensource tools*** for ***sound, graphics, etc.***; aswell, people doing UI/UX related work;<br/><br/>
 
-It is ***free, open source software, and platfform independent software*** licensed under **AGPL**. The current vesion is **pre-alpha 0.0.1**. It will more and more about combining **several languages** and **environments**<br/><br/>
+It is ***free, open source software, and platfform independent software*** licensed under **AGPL**. The current vesion is **pre-alpha 0.0.1**. It will more and more about combining **several languages** and **environments**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here.<br/><br/>
 
 The framework is written by **Tiago Morais Morgado**, *independent music professional (laptoper and violist active in electroacoustic free improvisation, contemporary music, and new media arts), and curator of* **Nachtstück Records** *label*.<br/><br/>
 
@@ -24,7 +24,7 @@ This project currently includes items such as: <br/><br/>
 - D) **Combos**, which stochastically load combinations of different kinds of some of the previously listed devices <br/>
 -	E) Another knd of **UI/UX elements**, such as Bootstrap elements, among other things; <br/><br/>
 
-Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was made with love, and **licensed** under **AGPL** <br/><br/>
+Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was made with love, and **licensed** under **AGPL**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here. <br/><br/>
 
 **Cheers**<br/>
 **Tiago Morais Morgado** <br/><br/>
