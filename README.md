@@ -33,8 +33,9 @@ This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 **Cheers**<br/>
 **Tiago Morais Morgado** <br/><br/>
 
-</a><img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a></img><img src="http://torquemag-hhvm.s3.amazonaws.com/uploads/2013/08/gnu-gpl-logo.png" height="100" width="100"><a href="https://en.wikipedia.org/wiki/GNU_General_Public_License"></a><img>
 <img src="https://avatars0.githubusercontent.com/u/7303598?v=3&s=460" height="100" width="100"><a href="https://www.qt.io">
+<img src="https://lh3.googleusercontent.com/-m0H-wPtVGFU/AAAAAAAAAAI/AAAAAAAAAAA/-RgbUQZx4Ck/s128-c-k/photo.jpg" height="100" width="100"><a href="https://www.qt.io">
+</a><img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a></img><img src="http://torquemag-hhvm.s3.amazonaws.com/uploads/2013/08/gnu-gpl-logo.png" height="100" width="100"><a href="https://en.wikipedia.org/wiki/GNU_General_Public_License"></a><img>
 
 work in progress version. updated at 26-10-2016.
 
