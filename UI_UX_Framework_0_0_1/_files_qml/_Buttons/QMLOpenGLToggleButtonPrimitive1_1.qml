@@ -20,6 +20,27 @@ import QtQuick 2.5
           return parseFloat(out);
         }
 
+        property var min1; property var max1;
+        property var min2; property var max2;
+        property var min3; property var max3;
+
+        function rgba(min1, max1, min2, max2, min3, max3) {
+
+            var rgb;
+
+            rgb[0] = getRandomIntInclusive(min1 +  max1);
+            function returnR() {return rgb[0];}
+
+            rgb[1] = getRandomIntInclusive(min2 +  max2);
+            function returnB() {return rgb[1];}
+
+            rgb[2] = getRandomIntInclusive(min3 +  max3);
+            function returnG() {return rgb[2];}
+
+            return rgb;
+
+        }
+
         id: button1_root
         visible: true
         width: parent.width / model
@@ -28,6 +49,10 @@ import QtQuick 2.5
         //height: size;
         border.color: color3
         color: textState == 1 ? color1 : color2
+        anchors.left: parent.left
+        anchors.right: parent.right
+        anchors.top: parent.top
+        anchors.bottom: parent.bottom
 
         MouseArea {
             id: onOFFclicked

@@ -1233,5 +1233,7 @@
         <file>_files_3rdParty/qml-material/normalize_imports.sh</file>
         <file>_files_3rdParty/qml-material/qml-material.pro</file>
         <file>_files_3rdParty/qml-material/README.md</file>
+        <file>_files_qml/_Buttons/Button6_1.qml</file>
+        <file>_files_qml/_Buttons/Button6_2.qml</file>
     </qresource>
 </RCC>
