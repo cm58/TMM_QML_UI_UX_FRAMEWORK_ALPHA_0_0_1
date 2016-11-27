@@ -10,8 +10,8 @@ The main motivation for writting this framework lies within: <br/><br/>
 
 This can be applied to: <br/><br/>
 
--	A) developing a framework for using within **SuperCollider development** and **other OpenSource Projects**, not only in the extension of supercollider IDE, in a long run, but also, in a short run, within providing a solution for UI/UX development inside SC as a quaró. <br/>
--	B) developing a framework for using within the development of a **composer toolbox** sort of application, for composing **instrumental music**, **electroacoustic music**, and for **developing opensource tools**<br/><br/>
+-	A) developing a framework for **programming GUIs** for **enhancing digital media arts related apps** (similarly to what you'd do, in theory, with stuff like **Lemur** or other related apps). <br/>
+-	B) developing, on the long run, a framework for using within the development of a **composer toolbox** sort of application, for composing **instrumental music**, **electroacoustic music**, and for **developing opensource tools**<br/><br/>
 
 This project currently includes items such as: <br/><br/>
 
