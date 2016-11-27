@@ -4,7 +4,7 @@
 
 It is ***free, open source software, and platfform independent software*** licensed under **GNU 3.0**. The current vesion is **pre-alpha 0.0.1**. It will more and more abouti combining **several languages** and **environments**<br/><br/>
 
-The framework is written by **Tiago Morais Morgado**, independent music professional (laptop and violist active in electroacoustic free improvisation, contemporary music, and new media arts), and curator of **Nachtstück Records** label.<br/><br/>
+The framework is written by **Tiago Morais Morgado**, *independent music professional (laptop and violist active in electroacoustic free improvisation, contemporary music, and new media arts), and curator of* **Nachtstück Records** *label*.<br/><br/>
 
 The main motivation for writting this framework lies within: <br/><br/>
 
