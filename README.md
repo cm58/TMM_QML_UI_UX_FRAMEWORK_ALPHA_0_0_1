@@ -25,11 +25,11 @@ This project currently includes items such as: <br/><br/>
 -	E) **Switches**; <br/>
 -	F) **Down/up Arrow Buttons**; <br/>
 -	G) **Mouse Buttons**; <br/>
--	H) Another knd of **UI/UX elements**; <br/>
+-	H) Another knd of **UI/UX elements**; <br/><br/>
 
-Current versions also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors<br/>
+Current versions also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors<br/><br/>
 
-Furthermore, it includes **RtMidi Library**.
+Furthermore, it includes **RtMidi Library**.<br/><br/>
 
 This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 
@@ -38,11 +38,11 @@ This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 
 <img src="https://avatars0.githubusercontent.com/u/7303598?v=3&s=460" height="100" width="100"><a href="https://www.qt.io">
 <img src="https://lh3.googleusercontent.com/-m0H-wPtVGFU/AAAAAAAAAAI/AAAAAAAAAAA/-RgbUQZx4Ck/s128-c-k/photo.jpg" height="100" width="100"><a href="https://www.qt.io">
-</a><img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a></img><img src="http://torquemag-hhvm.s3.amazonaws.com/uploads/2013/08/gnu-gpl-logo.png" height="100" width="100"><a href="https://en.wikipedia.org/wiki/GNU_General_Public_License"></a><img>
+</a><img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a></img><img src="http://torquemag-hhvm.s3.amazonaws.com/uploads/2013/08/gnu-gpl-logo.png" height="100" width="100"><a href="https://en.wikipedia.org/wiki/GNU_General_Public_License"></a><img><br/><br/><br/><br/>
 
-work in progress version. updated at 26-10-2016.
+work in progress version. updated at 26-10-2016.<br/><br/>
 
-<iframe src="https://player.vimeo.com/video/188973909" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/188973909">Tiago framework UI:UX QML UI/UX work in progress (week 2)</a> from <a href="https://vimeo.com/tiagomoraismorgado">Tiago Morais Morgado</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/188973909" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
+<p><a href="https://vimeo.com/188973909">Tiago framework UI:UX QML UI/UX work in progress (week 2)</a> from <a href="https://vimeo.com/tiagomoraismorgado">Tiago Morais Morgado</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br/>
 
-A special thanks to **Nuno Santos**, for being my **QML Guru** at **Imaginando**
+A special thanks to **Nuno Santos**, for being my **QML Guru** at **Imaginando**<br/>
