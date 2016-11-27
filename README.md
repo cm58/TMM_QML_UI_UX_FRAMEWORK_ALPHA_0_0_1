@@ -1,4 +1,3 @@
-
 # **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** <br/><br/>
 
 This repository consists of a **QML UI/UX Framework**.<br/>
@@ -10,9 +9,9 @@ The main motivation for writting this framework lies within: <br/><br/>
 
 This can be applied to: <br/><br/>
 
--	A) developing a framework for **programming GUIs** for **enhancing digital media arts related apps** (similarly to what you'd do, in theory, with stuff like **Lemur** or other related apps). <br/>
--	B) developing, on the long run, a framework for using within the development of a **composer toolbox** sort of application, for composing **instrumental music**, **electroacoustic music**, and for **developing opensource tools**<br/>
--	C) Having a tool that can enhance the UI of environments such as **SuperCollider**, **Csound**, and **PureData**. <br/>
+-	**A)** developing a framework for **programming GUIs** for **enhancing digital media arts related apps** (similarly to what you'd do, in theory, with stuff like **Lemur** or other related apps). <br/>
+-	**B)** developing, on the long run, a framework for using within the development of a **composer toolbox** sort of application, for composing **instrumental music**, **electroacoustic music**, and for **developing opensource tools**<br/>
+-	**C)** Having a tool that can enhance the UI of environments such as **SuperCollider**, **Csound**, and **PureData**. <br/>
 
 This project currently includes items such as: <br/><br/>
 
@@ -25,9 +24,9 @@ This project currently includes items such as: <br/><br/>
 -	G) **Mouse Buttons**; <br/>
 -	H) Another knd of **UI/UX elements**; <br/>
 
-Current versions also includes QmlBootstrap Framework, and I would like to honestly thank its authors<br/>
+Current versions also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors<br/>
 
-Furthermore, it includes RtMidi Library.
+Furthermore, it includes **RtMidi Library**.
 
 This was made with love, and **licensed** under **GNU 3.0** <br/><br/>
 
