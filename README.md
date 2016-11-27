@@ -1,10 +1,10 @@
 # Welcome to **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1**!!! <br/><br/>
 
-**TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** is a framework for **rapid UI prototyping**, aimed at ***musicians, artists, and people working with opensource tools*** for ***sound, graphics, etc.***; and for people doing UI/UX related work;<br/><br/>
+**TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** aims **rapid UI prototyping**; its targetted at ***musicians, artists, and people working with opensource tools*** for ***sound, graphics, etc.***; aswell, people doing UI/UX related work;<br/><br/>
 
-It is ***free, open source software, and platfform independent software*** licensed under **GNU 3.0**. The current vesion is **pre-alpha 0.0.1**. It will more and more abouti combining **several languages** and **environments**<br/><br/>
+It is ***free, open source software, and platfform independent software*** licensed under **GNU 3.0**. The current vesion is **pre-alpha 0.0.1**. It will more and more about combining **several languages** and **environments**<br/><br/>
 
-The framework is written by **Tiago Morais Morgado**, *independent music professional (laptop and violist active in electroacoustic free improvisation, contemporary music, and new media arts), and curator of* **Nachtstück Records** *label*.<br/><br/>
+The framework is written by **Tiago Morais Morgado**, *independent music professional (laptoper and violist active in electroacoustic free improvisation, contemporary music, and new media arts), and curator of* **Nachtstück Records** *label*.<br/><br/>
 
 The main motivation for writting this framework lies within: <br/><br/>
 
@@ -12,9 +12,9 @@ The main motivation for writting this framework lies within: <br/><br/>
 
 This can be applied to: <br/><br/>
 
--	**A)** developing a framework for **programming UIs** for **enhancing digital media arts related apps** (similarly to what you'd do, in theory, with stuff like **Lemur** or other related apps, though you can integrate the source of all apps you are using into a single app. <br/><br/>
--	**B)** developing, on the long run, a framework for using within the development of a **composer toolbox** sort of application, for composing **instrumental music**, **electroacoustic music**, and for **developing opensource tools**<br/><br/>
--	**C)** Having a tool that can enhance the UI of environments such as **SuperCollider**, **Csound**, and **PureData**, not only by **routing MIDI** and **Opensoundcontrol data inbetween apps**, but also having a library that can **extend the features of these platfforms**, in one way. <br/><br/>
+-	**A)** **prototyping UIs** for **enhancing digital media arts related apps** (similarly to, **Lemur** or other related apps, though it's opensource and you can integrate it into your builds. <br/><br/>
+-	**B)** contributing to the development of a **composer toolbox** sort of application, for composing **instrumental music**, **electroacoustic music**, and for **opensource tools**<br/><br/>
+-	**C)** enhancing the UI of environments such as **SuperCollider**, **Csound**, and **PureData**, not only by **routing MIDI** and **Opensoundcontrol data inbetween apps**, but also having a library that can **extend the features of these platfforms**. <br/><br/>
 
 This project currently includes items such as: <br/><br/>
 
@@ -27,7 +27,7 @@ This project currently includes items such as: <br/><br/>
 -	G) **Mouse Buttons**; <br/>
 -	H) Another knd of **UI/UX elements**; <br/><br/>
 
-Current versions also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors<br/><br/>
+Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors<br/><br/>
 
 Furthermore, it includes **RtMidi Library**.<br/><br/>
 
@@ -45,4 +45,4 @@ work in progress version. updated at 26-10-2016.<br/><br/>
 <iframe src="https://player.vimeo.com/video/188973909" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
 <p><a href="https://vimeo.com/188973909">Tiago framework UI:UX QML UI/UX work in progress (week 2)</a> from <a href="https://vimeo.com/tiagomoraismorgado">Tiago Morais Morgado</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br/>
 
-A special thanks to **Nuno Santos**, for being my **QML Guru** at **Imaginando**<br/>
+A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at **Imaginando**<br/>
