@@ -16,24 +16,24 @@
 
 This can be applied to: <br/><br/>
 
--	**A)** **prototyping UIs** for **enhancing digital media arts related apps** (similarly to, **Lemur** or other related apps, though it's opensource and you can integrate it into your builds. <br/><br/>
--	**B)** contributing to the development of a **composer toolbox** sort of application, for composing **interactive music**<br/><br/>
--	**C)** enhancing the UI of environments such as **SuperCollider**, **Csound**, and **PureData**, not only by **routing MIDI** and **Opensoundcontrol data inbetween apps**, but also having a library that can **extend the features of these platfforms**. <br/><br/>
+-	**A)** **prototyping UIs** *for* **enhancing digital media arts related apps** *(similarly to,* **Lemur** *or other related apps, though it's opensource and you can integrate it into your builds* . <br/><br/>
+-	**B)** *contributing to the development of a* **composer toolbox** *sort of application, for composing* **interactive music**<br/><br/>
+-	**C)** *enhancing the UI of environments such as* **SuperCollider**, **Csound**, and **PureData**, *not only by* **routing MIDI** *and* **Opensoundcontrol data inbetween apps**, *but also having a library that can* **extend the features of these platfforms**. <br/><br/>
 
 ## Contents <br/><br/>
 
 This project currently includes items such as: <br/><br/>
 
-- A) **SVG** and **PNG** based icons featuring different kinds of images;
--	B) **Faders** and **Multisliders**, which you can costumize and use with different colors and layouts; <br/>
--	C) **Toggles**, with different layouts, which you can use to send boolean data; <br/>
-- D) **Combos**, which combine some of the previous elements and others <br/>
-- E) **Stochastic allocators**, which  load combinations of different kinds of some of the previously listed devices randomly<br/>
--	F) Another knd of **UI/UX elements**, such as Bootstrap elements, Material Design related stuff, among other things; <br/><br/>
+- A) **SVG** *and* **PNG** *based icons featuring different kinds of images* ;
+-	B) **Faders** *and* **Multisliders**, *which you can costumize and use with different colors and layouts* ; <br/>
+-	C) **Toggles**, *with different layouts, which you can use to send boolean data* ; <br/>
+- D) **Combos**, *which combine some of the previous elements and others* <br/>
+- E) **Stochastic allocators**, *which  load combinations of different kinds of some of the previously listed devices randomly* <br/>
+-	F) *Another knd of* **UI/UX elements**, *such as Bootstrap elements, Material Design related stuff, among other things* ; <br/><br/>
 
 ## Additional includes and licensing <br/><br/>
 
-Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was all made with love, and **licensed** under **AGPL**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here. <br/><br/>
+*Current version also includes* **QmlBootstrap Framework**, *and I would like to honestly thank its authors. Furthermore, it includes* **RtMidi Library**. *This was all made with love, and* **licensed** *under* **AGPL**. *We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here* . <br/><br/>
 
 ## **Cheers**<br/>
 ## **Tiago Morais Morgado** <br/><br/>
@@ -45,6 +45,6 @@ Current version also includes **QmlBootstrap Framework**, and I would like to ho
 
 ## Notes <br/><br/>
 
-work in progress version. updated at 26-10-2016. <iframe src="https://player.vimeo.com/video/188973909" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><a href="https://vimeo.com/188973909">Tiago framework UI:UX QML UI/UX work in progress (week 2)</a> from <a href="https://vimeo.com/tiagomoraismorgado">Tiago Morais Morgado</a> on <a href="https://vimeo.com">Vimeo</a>. A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at **Imaginando**<br/>
+*work in progress version. updated at 26-10-2016* . <iframe src="https://player.vimeo.com/video/188973909" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><a href="https://vimeo.com/188973909"> Tiago framework UI:UX QML UI/UX work in progress (week 2) </a> from <a href="https://vimeo.com/tiagomoraismorgado">Tiago Morais Morgado</a> on <a href="https://vimeo.com">Vimeo</a>. *A special thanks to* **Nuno Santos**, for being my **QML Guru** *during my time at* **Imaginando**<br/>
 
 			
