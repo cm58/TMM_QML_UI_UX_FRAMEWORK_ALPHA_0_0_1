@@ -2,7 +2,7 @@
 
 ## Introduction <br/><br/>
 
-**TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** aims at **rapid UI prototyping**; its targetted for ***musicians, artists, and people working with opensource tools*** for ***sound, graphics, etc.***; aswell, people doing general-purpose UI/UX related work;<br/><br/>
+**TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** *aims at* **rapid UI prototyping**; *its targetted for* ***musicians, artists, and people working with opensource tools*** *for* ***sound, graphics, etc.*** ; *aswell, people doing general-purpose UI/UX related work* ; <br/><br/>
 
 It is ***free, open source software, and platfform independent software*** licensed under **AGPL**. The current vesion is **pre-alpha 0.0.1**. It will more and more about combining **several languages** and **environments**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here.<br/><br/>
 
