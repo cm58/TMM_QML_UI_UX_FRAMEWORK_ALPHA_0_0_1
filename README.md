@@ -6,13 +6,13 @@
 
 *It is* ***free, open source software, and platfform independent software*** *licensed under* **AGPL**. *The current vesion is* **pre-alpha 0.0.1**. *It will more and more about combining* **several languages** *and* **environments**. *We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here* . <br/><br/>
 
-The framework is written by **Tiago Morais Morgado**, *independent music professional (laptoper and violist active in electroacoustic free improvisation, contemporary music, and new media arts), and curator of* **Nachtstück Records** *label*.<br/><br/>
+*The framework is written by* **Tiago Morais Morgado**, *independent music professional (laptoper and violist active in electroacoustic free improvisation, contemporary music, and new media arts), and curator of* **Nachtstück Records** *label*.<br/><br/>
 
 ## Main Motivation behind implementation <br/><br/>
 
-The main motivation for writting this framework lies within: <br/><br/>
+*The main motivation for writting this framework lies within* : <br/><br/>
 
--	Providing an easy to use solution for **prototyping user interfaces in QML**, pretty fastly and efficiently <br/><br/>
+-	*Providing an easy to use solution for* **prototyping user interfaces in QML**, *pretty fastly and efficiently* <br/><br/>
 
 This can be applied to: <br/><br/>
 
