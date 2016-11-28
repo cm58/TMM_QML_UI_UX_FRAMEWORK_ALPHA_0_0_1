@@ -35,8 +35,8 @@ This project currently includes items such as: <br/><br/>
 
 Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was all made with love, and **licensed** under **AGPL**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here. <br/><br/>
 
-### **Cheers**<br/>
-### **Tiago Morais Morgado** <br/><br/>
+## **Cheers**<br/>
+## **Tiago Morais Morgado** <br/><br/>
 
 <img src="https://avatars0.githubusercontent.com/u/7303598?v=3&s=460" height="100" width="100"><a href="https://www.qt.io">
 <img src="https://lh3.googleusercontent.com/-m0H-wPtVGFU/AAAAAAAAAAI/AAAAAAAAAAA/-RgbUQZx4Ck/s128-c-k/photo.jpg" height="100" width="100"><a href="https://www.qt.io">
