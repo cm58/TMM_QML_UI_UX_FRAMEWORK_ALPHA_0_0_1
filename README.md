@@ -33,7 +33,7 @@ This project currently includes items such as: <br/><br/>
 
 ## Additional includes and licensing <br/><br/>
 
-Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was all made with love, and **licensed** under **AGPL**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here. <br/><br/>
+*Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was all made with love, and **licensed** under **AGPL**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here. <br/><br/>*
 
 ## **Cheers**<br/>
 ## **Tiago Morais Morgado** <br/><br/>
