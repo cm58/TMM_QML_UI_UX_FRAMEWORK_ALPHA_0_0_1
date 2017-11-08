@@ -43,8 +43,8 @@ The framework is written by **Tiago Morais Morgado**, independent music professi
 
 Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was all made with love, and **licensed** under **AGPL**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here .
 
-## **Cheers**
-## **Tiago Morais Morgado** 
+**Cheers**
+**Tiago Morais Morgado** 
 
 ---
 
