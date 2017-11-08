@@ -48,8 +48,8 @@ Current version also includes **QmlBootstrap Framework**, and I would like to ho
 
 ---
 
-<img src="https://avatars0.githubusercontent.com/u/7303598?v=3&s=460" height="100" width="100"><a href="https://www.qt.io"><img src="https://lh3.googleusercontent.com/-m0H-wPtVGFU/AAAAAAAAAAI/AAAAAAAAAAA/-RgbUQZx4Ck/s128-c-k/photo.jpg" height="100" width="100"><a href="https://www.qt.io">
-</a><img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a></img><img src="http://zfoneproject.com/images/logos/agplv3-584x235.png" height="100" width="100"><img><br/><br/><br/><br/>
+<img src="https://avatars0.githubusercontent.com/u/7303598?v=3&s=460" height="100" width="100"><a href="https://www.qt.io"> <img src="https://lh3.googleusercontent.com/-m0H-wPtVGFU/AAAAAAAAAAI/AAAAAAAAAAA/-RgbUQZx4Ck/s128-c-k/photo.jpg" height="100" width="100"><a href="https://www.qt.io">
+</a> <img src="http://www.zoomdigital.com.br/img/2011/02/qtcreator.png" height="100" width="100"><a href="https://www.qt.io"></a> </img><img src="http://zfoneproject.com/images/logos/agplv3-584x235.png" height="100" width="100"><img><br/><br/><br/><br/>
 
 ---
 
