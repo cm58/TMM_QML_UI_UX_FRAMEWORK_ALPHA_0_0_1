@@ -10,11 +10,11 @@ The framework is written by **Tiago Morais Morgado**, independent music professi
 
 ## Main Motivation behind implementation 
 
-The main motivation for writting this framework lies within : 
+**The main motivation for writting this framework lies within:**
 
--	*Providing an easy to use solution for* **prototyping user interfaces in QML**, *pretty fastly and efficiently* 
+- *Providing an easy to use solution for* **prototyping user interfaces in QML**, *pretty fastly and efficiently* 
 
-This can be applied to: 
+**This can be applied to:**
 
 - **A)** **prototyping UIs** *for* **enhancing digital media arts related apps** *(similarly to,* **Lemur** *or other related apps, though it's opensource and you can integrate it into your builds* . 
 - **B)** *contributing to the development of a* **composer toolbox** *sort of application, for composing* **interactive music**
@@ -22,7 +22,7 @@ This can be applied to:
 
 ## Contents 
 
-This project currently includes items such as: 
+**This project currently includes items such as:**
 
 - A) **SVG** *and* **PNG** *based icons featuring different kinds of images* ;
 - B) **Faders** *and* **Multisliders**, *which you can costumize and use with different colors and layouts* ; 
