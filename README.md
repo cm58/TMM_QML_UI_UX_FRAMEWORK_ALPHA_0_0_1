@@ -4,17 +4,17 @@
 
 ## Introduction 
 
-**TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** aims at **rapid UI prototyping**; its targetted for ***musicians, artists, and people working with opensource tools*** for ***sound, graphics, etc.*** ; aswell, people doing general-purpose UI/UX related work ; 
+<sub>**TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** aims at **rapid UI prototyping**; its targetted for ***musicians, artists, and people working with opensource tools*** for ***sound, graphics, etc.*** ; aswell, people doing general-purpose UI/UX related work ; </sub>
 
-It is ***free, open source software, and platfform independent software*** *licensed under* **AGPL**. The current vesion is **pre-alpha 0.0.1**. It will more and more about combining **several languages** *and* **environments**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here . 
+<sub>It is ***free, open source software, and platfform independent software*** *licensed under* **AGPL**. The current vesion is **pre-alpha 0.0.1**. It will more and more about combining **several languages** *and* **environments**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here . </sub>
 
-The framework is written by **Tiago Morais Morgado**, independent music professional (laptoper and violist active in electroacoustic free improvisation, contemporary music, and new media arts), and curator of **Nachtstück Records** label.
+<sub>The framework is written by **Tiago Morais Morgado**, independent music professional (laptoper and violist active in electroacoustic free improvisation, contemporary music, and new media arts), and curator of **Nachtstück Records** label.</sub>
 
 ---
 
 ## Main Motivation behind implementation 
 
-**The main motivation for writting this framework lies within:**
+<sub>**The main motivation for writting this framework lies within:**</sub>
 
 - <sub>*Providing an easy to use solution for* **prototyping user interfaces in QML**, *pretty fastly and efficiently*</sub>
 
@@ -28,7 +28,7 @@ The framework is written by **Tiago Morais Morgado**, independent music professi
 
 ## Contents 
 
-**This project currently includes items such as:**
+<sub>**This project currently includes items such as:**</sub>
 
 - <sub>A) **SVG** *and* **PNG** *based icons featuring different kinds of images* ;</sub>
 - <sub>B) **Faders** *and* **Multisliders**, *which you can costumize and use with different colors and layouts* ; </sub>
@@ -41,7 +41,7 @@ The framework is written by **Tiago Morais Morgado**, independent music professi
 
 ## Additional includes and licensing 
 
-Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was all made with love, and **licensed** under **AGPL**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here .
+<sub>Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was all made with love, and **licensed** under **AGPL**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here .</sub>
 
 **Cheers**
 **Tiago Morais Morgado** 
