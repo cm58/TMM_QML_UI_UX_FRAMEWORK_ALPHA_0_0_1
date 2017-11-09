@@ -18,7 +18,7 @@
 
 - <sub>*Providing an easy to use solution for* **prototyping user interfaces in QML**, *pretty fastly and efficiently*</sub>
 
-**This can be applied to:**
+<sub>**This can be applied to:**</sub>
 
 - <sub>**A)** **prototyping UIs** *for* **enhancing digital media arts related apps** *(similarly to,* **Lemur** *or other related apps, though it's opensource and you can integrate it into your builds* .</sub>
 - <sub>**B)** *contributing to the development of a* **composer toolbox** *sort of application, for composing* **interactive music**</sub>
