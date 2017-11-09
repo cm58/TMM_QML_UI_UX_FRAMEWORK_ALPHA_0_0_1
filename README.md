@@ -16,13 +16,13 @@ The framework is written by **Tiago Morais Morgado**, independent music professi
 
 **The main motivation for writting this framework lies within:**
 
-- *Providing an easy to use solution for* **prototyping user interfaces in QML**, *pretty fastly and efficiently* 
+- <sub>*Providing an easy to use solution for* **prototyping user interfaces in QML**, *pretty fastly and efficiently*</sub>
 
 **This can be applied to:**
 
-- **A)** **prototyping UIs** *for* **enhancing digital media arts related apps** *(similarly to,* **Lemur** *or other related apps, though it's opensource and you can integrate it into your builds* . 
-- **B)** *contributing to the development of a* **composer toolbox** *sort of application, for composing* **interactive music**
-- **C)** *enhancing the UI of environments such as* **SuperCollider**, **Csound**, and **PureData**, *not only by* **routing MIDI** *and* **Opensoundcontrol data inbetween apps**, *but also having a library that can* **extend the features of these platfforms**. 
+- <sub>**A)** **prototyping UIs** *for* **enhancing digital media arts related apps** *(similarly to,* **Lemur** *or other related apps, though it's opensource and you can integrate it into your builds* .</sub>
+- <sub>**B)** *contributing to the development of a* **composer toolbox** *sort of application, for composing* **interactive music**</sub>
+- <sub>**C)** *enhancing the UI of environments such as* **SuperCollider**, **Csound**, and **PureData**, *not only by* **routing MIDI** *and* **Opensoundcontrol data inbetween apps**, *but also having a library that can* **extend the features of these platfforms**.</sub>
 
 ---
 
@@ -30,12 +30,12 @@ The framework is written by **Tiago Morais Morgado**, independent music professi
 
 **This project currently includes items such as:**
 
-- A) **SVG** *and* **PNG** *based icons featuring different kinds of images* ;
-- B) **Faders** *and* **Multisliders**, *which you can costumize and use with different colors and layouts* ; 
-- C) **Toggles**, *with different layouts, which you can use to send boolean data* ; 
-- D) **Combos**, *which combine some of the previous elements and others* 
-- E) **Stochastic allocators**, *which  load combinations of different kinds of some of the previously listed devices randomly* 
-- F) *Another knd of* **UI/UX elements**, *such as Bootstrap elements, Material Design related stuff, among other things* ;
+- <sub>A) **SVG** *and* **PNG** *based icons featuring different kinds of images* ;</sub>
+- <sub>B) **Faders** *and* **Multisliders**, *which you can costumize and use with different colors and layouts* ; </sub>
+- <sub>C) **Toggles**, *with different layouts, which you can use to send boolean data* ; </sub>
+- <sub>D) **Combos**, *which combine some of the previous elements and others*</sub> 
+- <sub>E) **Stochastic allocators**, *which  load combinations of different kinds of some of the previously listed devices randomly*</sub> 
+- <sub>F) *Another knd of* **UI/UX elements**, *such as Bootstrap elements, Material Design related stuff, among other things*;</sub>
 
 ---
 
