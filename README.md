@@ -55,7 +55,7 @@
 
 ## Notes 
 
-work in progress version. updated at 26-10-2016 . 
-A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at **Imaginando**
+<sub>work in progress version. updated at 26-10-2016 . 
+A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at **Imaginando**</sub>
 
 			
