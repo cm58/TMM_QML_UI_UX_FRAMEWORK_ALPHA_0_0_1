@@ -1,5 +1,7 @@
 # Welcome to **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1**!!! <br/><br/>
 
+<details><summary></summary>
+
 Table of Contents (ToC)
 =======================
 
@@ -67,4 +69,4 @@ Table of Contents (ToC)
 <sub>work in progress version. updated at 26-10-2016 . 
 A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at **Imaginando**</sub>
 
-			
+</details>
