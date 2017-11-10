@@ -7,6 +7,7 @@ Table of Contents (ToC)
 * [Main Motivation Behind Implementation](#main-motivation-behind-implementation)
 * [Contents](#contents)
 * [Additional Includes and Licensing](#additional-includes-and-licensing)
+* [Notes](#notes)
 
 ---
 
