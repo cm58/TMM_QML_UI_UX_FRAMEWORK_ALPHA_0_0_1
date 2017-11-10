@@ -71,7 +71,7 @@ A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at
 
 </details>
 
-# Bem-vindo ao TMM QML UI-UX Framework ALPHA 0.0.1 <br/><br/>
+# Bem-vindo ao TMM QML UI-UX Framework ALPHA 0.0.1!!! <br/><br/>
 
 <details><summary><sub><b>Carregar aqui para ver a versão em Português do README.md (por traduzir)</b></sub></summary>
 
