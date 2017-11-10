@@ -1,5 +1,13 @@
 # Welcome to **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1**!!! <br/><br/>
 
+Table of Contents (ToC)
+=======================
+
+* [Introduction](#introduction)
+* [Main Motivation Behind Implementation](#main-motivation-behind-implementation)
+* [Contents](#contents)
+* [Additional Includes and Licensing](#additional-includes-and-licensing)
+
 ---
 
 ## Introduction 
