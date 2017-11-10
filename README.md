@@ -1,6 +1,6 @@
 # Welcome to **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1**!!! <br/><br/>
 
-<details><summary>Click here to see English README.md version</summary>
+<details><summary><sub><b>Click here to see English README.md version</b></sub></summary>
 
 Table of Contents (ToC)
 =======================
