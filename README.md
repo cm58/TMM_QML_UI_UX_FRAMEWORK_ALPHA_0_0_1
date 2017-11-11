@@ -1,9 +1,10 @@
-# Welcome to **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1**!!! <br/><br/>
+<details><summary><h2><b>Documentation</b></h1></summary>
+
+#### Welcome to **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1**!!! <br/><br/>
 
 <details><summary><sub><b>Click here to see English README.md version</b></sub></summary>
 
-Table of Contents (ToC)
-=======================
+#### Table of Contents (ToC)
 
 * [Introduction](#introduction)
 * [Main Motivation Behind Implementation](#main-motivation-behind-implementation)
@@ -13,7 +14,7 @@ Table of Contents (ToC)
 
 ---
 
-## Introduction 
+#### Introduction 
 
 <sub>**TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** aims at **rapid UI prototyping**; its targetted for ***musicians, artists, and people working with opensource tools*** for ***sound, graphics, etc.*** ; aswell, people doing general-purpose UI/UX related work ; </sub>
 
@@ -37,7 +38,7 @@ Table of Contents (ToC)
 
 ---
 
-## Contents 
+#### Contents 
 
 <sub>**This project currently includes items such as:**</sub>
 
@@ -50,7 +51,7 @@ Table of Contents (ToC)
 
 ---
 
-## Additional includes and licensing 
+#### Additional includes and licensing 
 
 <sub>Current version also includes **QmlBootstrap Framework**, and I would like to honestly thank its authors. Furthermore, it includes **RtMidi Library**. This was all made with love, and **licensed** under **AGPL**. We just ask you to send us all the modifications you make to the repository, so that we can check them, and eventually include them here .</sub>
 
@@ -64,19 +65,18 @@ Table of Contents (ToC)
 
 ---
 
-## Notes 
+#### Notes 
 
 <sub>work in progress version. updated at 26-10-2016 . 
 A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at **Imaginando**</sub>
 
 </details>
 
-# Bem-vindo ao TMM QML UI-UX Framework ALPHA 0.0.1!!! <br/><br/>
+#### Bem-vindo ao TMM QML UI-UX Framework ALPHA 0.0.1!!! <br/><br/>
 
 <details><summary><sub><b>Carregar aqui para ver a versão em Português do README.md (por traduzir)</b></sub></summary>
 
-Índice de Conteúdos
-=======================
+#### Índice de Conteúdos
 
 * [Introdução](#introducao)
 * [Motivação Principal Por Detrás da Implementação](#motivacao-principal-por-detras-da-implementacao)
@@ -87,7 +87,7 @@ A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at
 
 ---
 
-## Introdução 
+#### Introdução 
 
 <sub>**TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1** tem como objectivo **prototipagem rápida de elementos de UI*; tem em vista ***músicos, artistas, e pessoas a trabalhar com ferramentas opensource*** para ***som, gráficos, etc.***; de igual modo, trabalho de UI/UX com propósitos mais gerais; </sub>
 
@@ -97,7 +97,7 @@ A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at
 
 ---
 
-## Motivação Principal por Detrás da Implementação
+#### Motivação Principal por Detrás da Implementação
 
 <sub>**A motivação principal por detrás da escrita deste framework, jaz basicamente, em**</sub>
 
@@ -111,7 +111,7 @@ A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at
 
 ---
 
-## Conteúdos
+#### Conteúdos
 
 <sub>**Este projecto inclui actual itens como por exemplo:**</sub>
 
@@ -124,7 +124,7 @@ A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at
 
 ---
 
-## Licença
+#### Licença
 
 <sub>Versões actuais também incluem o **Framework QmlBootstrap**, e eu gostaria de agradecer aos seus autores. Para além disso, inclui o **RtMidi Library**. Isto foi tudo feito com amor, e **licensiado** sobre **AGPL**. Apenas pedimos todas as modificações que fizerem a este repositório, para que nós as possamos incluir aqui.</sub>
 
@@ -138,9 +138,10 @@ A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at
 
 ---
 
-## Notas 
+#### Notas 
 
 <sub>trabalho em progresso, actualizado a 26-10-2016 . 
 Um obrigado especial a **Nuno Santos**, por ser o meu **Guru de QML** durante o meu tempo na **Imaginando**</sub>
 
+</details>
 </details>
