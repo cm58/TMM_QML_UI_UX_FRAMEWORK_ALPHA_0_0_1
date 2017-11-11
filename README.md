@@ -1,3 +1,5 @@
+<details><summary><h2><b>Documentation</b></h1></summary>
+
 #### Welcome to **TMM_QML_UI_UX_FRAMEWORK ALPHA 0.0.1**!!! <br/><br/>
 
 <details><summary><sub><b>Click here to see English README.md version</b></sub></summary>
@@ -141,4 +143,5 @@ A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at
 <sub>trabalho em progresso, actualizado a 26-10-2016 . 
 Um obrigado especial a **Nuno Santos**, por ser o meu **Guru de QML** durante o meu tempo na **Imaginando**</sub>
 
+</details>
 </details>
