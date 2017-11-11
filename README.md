@@ -2,8 +2,7 @@
 
 <details><summary><sub><b>Click here to see English README.md version</b></sub></summary>
 
-Table of Contents (ToC)
-=======================
+#### Table of Contents (ToC)
 
 * [Introduction](#introduction)
 * [Main Motivation Behind Implementation](#main-motivation-behind-implementation)
@@ -75,8 +74,7 @@ A special thanks to **Nuno Santos**, for being my **QML Guru** during my time at
 
 <details><summary><sub><b>Carregar aqui para ver a versão em Português do README.md (por traduzir)</b></sub></summary>
 
-Índice de Conteúdos
-=======================
+#### Índice de Conteúdos
 
 * [Introdução](#introducao)
 * [Motivação Principal Por Detrás da Implementação](#motivacao-principal-por-detras-da-implementacao)
